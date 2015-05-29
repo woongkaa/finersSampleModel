@@ -5,4 +5,5 @@
 - 가상환경 생성하여 해당 가상환경에 패키지 설치
 > pip install -r requirements.txt
 - pycharm에서 프로젝트에 해당 가상환경을 적용
+
 ## 끝
